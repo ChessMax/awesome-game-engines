@@ -6,9 +6,9 @@ you. Here you can find interesting game engines and frameworks that are not well
 your own game engine. Also, it's the place to look for a new ideas and inspiration. Feel free to
 make a contribution.
 
-[![GitHub forks](https://badgen.net/github/forks/ChessMax/awesome-programming-languages/)](https://GitHub.com/ChessMax/awesome-game-engines/network/)
-[![GitHub stars](https://badgen.net/github/stars/ChessMax/awesome-programming-languages)](https://GitHub.com/ChessMax/awesome-game-engines/stargazers/)
-[![GitHub contributors](https://badgen.net/github/contributors/ChessMax/awesome-programming-languages)](https://GitHub.com/ChessMax/awesome-game-engines/graphs/contributors/)
+[![GitHub forks](https://badgen.net/github/forks/ChessMax/awesome-game-engines/)](https://GitHub.com/ChessMax/awesome-game-engines/network/)
+[![GitHub stars](https://badgen.net/github/stars/ChessMax/awesome-game-engines)](https://GitHub.com/ChessMax/awesome-game-engines/stargazers/)
+[![GitHub contributors](https://badgen.net/github/contributors/ChessMax/awesome-game-engines)](https://GitHub.com/ChessMax/awesome-game-engines/graphs/contributors/)
 
 ## Contents
 # A (0):
