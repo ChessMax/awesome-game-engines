@@ -1,5 +1,5 @@
 # Awesome game engines
-The list of **15** awesome game engines, game frameworks that you might be used to implement cool 
+The list of **16** awesome game engines, game frameworks that you might be used to implement cool 
 and awesome games.
 If you are looking for a game engines, or you are making your own game engine, then it's place for
 you. Here you can find interesting game engines and frameworks that are not well known or promote
@@ -32,7 +32,8 @@ make a contribution.
 # I (0):
 # J (0):
 # K (0):
-# L (0):
+# L (1):
+- [LibGDX](https://libgdx.com/) - Cross-platform Game Development Framework. libGDX is a cross-platform Java game development framework based on OpenGL (ES), designed for Windows, Linux, macOS, Android, web browsers, and iOS. It provides a robust and well-established environment for rapid prototyping and iterative development. Unlike other frameworks, libGDX does not impose a specific design or coding style, allowing you the freedom to create games according to your preferences.
 # M (1):
 - [Monogame](https://www.monogame.net/) - MonoGame is a simple and powerful .NET framework for creating games for desktop PCs, video game consoles, and mobile devices using the C# programming language. It has been successfully used to create games such as Streets of Rage 4, Carrion, Celeste, Stardew Valley, and many others.
 # N (0):
