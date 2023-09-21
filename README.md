@@ -1,5 +1,5 @@
 # Awesome game engines
-The list of **22** awesome game engines, game frameworks that you might be used to implement cool 
+The list of **23** awesome game engines, game frameworks that you might be used to implement cool 
 and awesome games.
 If you are looking for a game engines, or you are making your own game engine, then it's place for
 you. Here you can find interesting game engines and frameworks that are not well known or promote
@@ -17,7 +17,8 @@ make a contribution.
   - Fast: Massively Parallel and Cache-Friendly. The fastest ECS according to some benchmarks 
   - Simple: Components are Rust structs, Systems are Rust functions 
   - Capable: Queries, Global Resources, Local Resources, Change Detection, Lock-Free Parallel Scheduler
-# C (1):
+# C (2):
+- [Castle-engine](https://github.com/castle-engine/castle-engine) - Cross-platform (desktop, mobile, console) 3D and 2D game engine supporting many asset formats (glTF, X3D, Spine...) and using modern Object Pascal.
 - [Cocos](https://www.cocos.com/en) - Efficient, light-weight, cross-platform, all in one 3D development engine. Full coverage of various platforms,friendly and professional tools to create a virtual world.
 # D (1):
 - [Defold](https://defold.com/) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
