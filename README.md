@@ -1,5 +1,5 @@
-# Awesome game enginges
-The list of **12** awesome game engines, game frameworks that you might be used to implement cool 
+# Awesome game engines
+The list of **13** awesome game engines, game frameworks that you might be used to implement cool 
 and awesome games.
 If you are looking for a game engines, or you are making your own game engine, then it's place for
 you. Here you can find interesting game engines and frameworks that are not well known or promote
@@ -40,7 +40,14 @@ make a contribution.
 - [Open 3D](https://o3de.org/) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.
 # P (0):
 # Q (0):
-# R (0):
+# R (1):
+- [Rebel Fork Framework](https://github.com/rbfx/rbfx) - Rebel Fork Framework aka rbfx is an experimental fork of Urho3D game engine distributed under MIT license. Rebel Fork Framework is:
+  - Free and Open Source Software, and it will stay this way;
+  - Suitable for 3D games and applications;
+  - Moderately lightweight and modular;
+  - Supported for Windows, Linux, MacOS, Android, iOS, Web and XBox (via UWP);
+  - Just a C++ library with a couple of tools;
+  - Also, there are experimental, optional C# bindings. 
 # S (1):
 - [Stride](https://www.stride3d.net/) - Stride is an open-source C# game engine for realistic rendering and VR. The engine is highly modular and aims at giving game makers more flexibility in their development. Stride comes with an editor that allows you to create and manage the content of your games or applications visually and intuitively.
 # T (0):
