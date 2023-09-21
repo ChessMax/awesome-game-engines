@@ -1,5 +1,5 @@
 # Awesome game engines
-The list of **20** awesome game engines, game frameworks that you might be used to implement cool 
+The list of **21** awesome game engines, game frameworks that you might be used to implement cool 
 and awesome games.
 If you are looking for a game engines, or you are making your own game engine, then it's place for
 you. Here you can find interesting game engines and frameworks that are not well known or promote
@@ -22,9 +22,10 @@ make a contribution.
 # D (1):
 - [Defold](https://defold.com/) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
 # E (0):
-# F (2):
+# F (3):
 - [Flax](https://flaxengine.com/) - Flax Engine is a high quality modern 3D game engine written in C++ and C#. From stunning graphics to powerful scripts - Flax can give everything for your games. Designed for fast workflow with many ready to use features waiting for you right now.
 - [FNA](https://fna-xna.github.io/) - FNA - Accuracy-focused XNA4 reimplementation for open platforms.
+- [Fyrox](https://github.com/FyroxEngine/Fyrox) - A feature-rich, production-ready, general purpose 2D/3D game engine written in Rust with a scene editor. Formerly known as rg3d.
 # G (2):
 - [Game Maker](https://gamemaker.io/en) - GameMaker accommodates the creation of cross-platform and multi-genre video games using a custom drag-and-drop visual programming language or a scripting language known as Game Maker Language, which can be used to develop more advanced games that could not be created just by using the visual programming features. GameMaker was originally designed to allow novice computer programmers to be able to make computer games without much programming knowledge by use of these actions. Recent versions of software also focus on appealing to advanced developers.
 - [Godot](https://github.com/godotengine/godot) - Godot Engine is a feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface. It provides a comprehensive set of common tools, so that users can focus on making games without having to reinvent the wheel. Games can be exported with one click to a number of platforms, including the major desktop platforms (Linux, macOS, Windows), mobile platforms (Android, iOS), as well as Web-based platforms and consoles.
