@@ -1,5 +1,5 @@
 # Awesome game engines
-The list of **24** awesome game engines, game frameworks that you might be used to implement cool 
+The list of **25** awesome game engines, game frameworks that you might be used to implement cool 
 and awesome games.
 If you are looking for a game engines, or you are making your own game engine, then it's place for
 you. Here you can find interesting game engines and frameworks that are not well known or promote
@@ -11,7 +11,8 @@ make a contribution.
 [![GitHub contributors](https://badgen.net/github/contributors/ChessMax/awesome-game-engines)](https://GitHub.com/ChessMax/awesome-game-engines/graphs/contributors/)
 
 ## Contents
-# A (0):
+# A (1):
+- [Allegro](https://liballeg.org/) - Allegro is a cross-platform library mainly aimed at video game and multimedia programming. It handles common, low-level tasks such as creating windows, accepting user input, loading data, drawing images, playing sounds, etc. and generally abstracting away the underlying platform. However, Allegro is not a game engine: you are free to design and structure your program as you like.
 # B (1):
 - [Bevy](https://bevyengine.org/) - A refreshingly simple data-driven game engine built in Rust Free and Open Source Forever! All engine and game logic uses Bevy ECS, a custom Entity Component System 
   - Fast: Massively Parallel and Cache-Friendly. The fastest ECS according to some benchmarks 
