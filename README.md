@@ -1,5 +1,5 @@
 # Awesome game engines
-The list of **29** awesome game engines, game frameworks that you might be used to implement cool 
+The list of **30** awesome game engines, game frameworks that you might be used to implement cool 
 and awesome games.
 If you are looking for a game engines, or you are making your own game engine, then it's place for
 you. Here you can find interesting game engines and frameworks that are not well known or promote
@@ -62,8 +62,10 @@ make a contribution.
   - Just a C++ library with a couple of tools;
   - Also, there are experimental, optional C# bindings.
 - [Ren'Py](https://www.renpy.org/) - Ren'Py is a visual novel engine – used by thousands of creators from around the world – that helps you use words, images, and sounds to tell interactive stories that run on computers and mobile devices. These can be both visual novels and life simulation games. The easy to learn script language allows anyone to efficiently write large visual novels, while its Python scripting is enough for complex simulation games. Ren'Py is open source and free for commercial use.
-# S (2):
+# S (3):
 - [SFML](https://www.sfml-dev.org/index.php) - Simple and Fast Multimedia Library.
+- [Solar2D](https://solar2d.com/) - Solar2D is a Lua based game engine with focus on ease of iterations and usage
+  This is a fully open source project that is forked of the well established and widely used Corona SDK game engine, which is no longer commercially supported. Development is lead by Vlad Shcherban, former technical lead engineer at Corona Labs Inc.
 - [Stride](https://www.stride3d.net/) - Stride is an open-source C# game engine for realistic rendering and VR. The engine is highly modular and aims at giving game makers more flexibility in their development. Stride comes with an editor that allows you to create and manage the content of your games or applications visually and intuitively.
 # T (1):
 - [Torque3D](https://torque3d.org/) - Torque was first developed by Dynamix (Tribes, Tribes 2) in early 2000s, later acquired by GarageGames and open-sourced under MIT license.
