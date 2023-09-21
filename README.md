@@ -1,5 +1,5 @@
 # Awesome game engines
-The list of **14** awesome game engines, game frameworks that you might be used to implement cool 
+The list of **15** awesome game engines, game frameworks that you might be used to implement cool 
 and awesome games.
 If you are looking for a game engines, or you are making your own game engine, then it's place for
 you. Here you can find interesting game engines and frameworks that are not well known or promote
@@ -40,7 +40,8 @@ make a contribution.
 - [Open 3D](https://o3de.org/) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.
 # P (0):
 # Q (0):
-# R (1):
+# R (2):
+- [Raylib](https://www.raylib.com/) - raylib is a simple and easy-to-use library to enjoy videogames programming.
 - [Rebel Fork Framework](https://github.com/rbfx/rbfx) - Rebel Fork Framework aka rbfx is an experimental fork of Urho3D game engine distributed under MIT license. Rebel Fork Framework is:
   - Free and Open Source Software, and it will stay this way;
   - Suitable for 3D games and applications;
