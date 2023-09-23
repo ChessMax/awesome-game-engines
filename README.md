@@ -1,5 +1,5 @@
 # Awesome game engines
-The list of **35** awesome game engines, game frameworks that you might be used to implement cool 
+The list of **36** awesome game engines, game frameworks that you might be used to implement cool 
 and awesome games.
 If you are looking for a game engines, or you are making your own game engine, then it's place for
 you. Here you can find interesting game engines and frameworks that are not well known or promote
@@ -58,7 +58,8 @@ It is free, open-source, and is loved by hobbyists, professionals, teachers, and
 # P (1):
 - [Phaser](https://phaser.io/) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 # Q (0):
-# R (3):
+# R (4):
+- [RavEngine](https://github.com/RavEngine/RavEngine) - A fast C++20 3D game engine for modern devices, with wide platform support.
 - [Raylib](https://www.raylib.com/) - raylib is a simple and easy-to-use library to enjoy videogames programming.
 - [Rebel Fork Framework](https://github.com/rbfx/rbfx) - Rebel Fork Framework aka rbfx is an experimental fork of Urho3D game engine distributed under MIT license. Rebel Fork Framework is:
   - Free and Open Source Software, and it will stay this way;
