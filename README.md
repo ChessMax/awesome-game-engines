@@ -1,5 +1,5 @@
 # Awesome game engines
-The list of **46** awesome game engines, game frameworks that you might be used to implement cool 
+The list of **47** awesome game engines, game frameworks that you might be used to implement cool 
 and awesome games.
 If you are looking for a game engines, or you are making your own game engine, then it's place for
 you. Here you can find interesting game engines and frameworks that are not well known or promote
@@ -59,9 +59,10 @@ It is free, open-source, and is loved by hobbyists, professionals, teachers, and
 - [Minko](https://github.com/aerys/minko) - 3D framework for web, desktop and mobile devices.
 - [Monogame](https://www.monogame.net/) - MonoGame is a simple and powerful .NET framework for creating games for desktop PCs, video game consoles, and mobile devices using the C# programming language. It has been successfully used to create games such as Streets of Rage 4, Carrion, Celeste, Stardew Valley, and many others.
 # N (0):
-# O (3):
+# O (4):
 - [OGRE](https://www.ogre3d.org/) - Since 2001, OGRE has grown to become one of the most popular open-source graphics rendering engines, and has been used in a large number of production projects, in such diverse areas as games, simulators, educational software, interactive art, scientific visualisation, and others.
 - [Open 3D](https://o3de.org/) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.
+- [OpenMW](https://openmw.org/) - OpenMW is a free and open-source game engine recreation that reimplements the one powering Bethesda Softworks' 2002 open-world role-playing game The Elder Scrolls III: Morrowind.
 - [Orx](https://orx-project.org/) - Orx is a 2.5D data-driven game development engine. It is open source, ultra-fast, multi-platform and full-featured for C/C++ programmers: beginners and experts alike.
 # P (1):
 - [Phaser](https://phaser.io/) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
