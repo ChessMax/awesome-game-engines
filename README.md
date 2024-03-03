@@ -1,5 +1,5 @@
 # Awesome game engines
-The list of **47** awesome game engines, game frameworks that you might be used to implement cool 
+The list of **48** awesome game engines, game frameworks that you might be used to implement cool 
 and awesome games.
 If you are looking for a game engines, or you are making your own game engine, then it's place for
 you. Here you can find interesting game engines and frameworks that are not well known or promote
@@ -87,9 +87,10 @@ It is free, open-source, and is loved by hobbyists, professionals, teachers, and
 - [Stride](https://www.stride3d.net/) - Stride is an open-source C# game engine for realistic rendering and VR. The engine is highly modular and aims at giving game makers more flexibility in their development. Stride comes with an editor that allows you to create and manage the content of your games or applications visually and intuitively.
 # T (1):
 - [Torque3D](https://torque3d.org/) - Torque was first developed by Dynamix (Tribes, Tribes 2) in early 2000s, later acquired by GarageGames and open-sourced under MIT license.
-# U (3):
+# U (4):
 - [UPBGE](https://upbge.org) - UPBGE is an open-source, 3D game engine forked from the old Blender Game Engine and deployed with Blender itself. This unified workflow is its main strength, as you can make your game from start to finish without leaving Blender.
 - [Unigine](https://unigine.com/) - UNIGINE is a proprietary cross-platform game engine developed by UNIGINE Company used in simulators, virtual reality systems, serious games and visualization. It supports OpenGL 4, Vulkan and DirectX 12. UNIGINE Engine is a core technology for a lineup of benchmarks (CPU, GPU, power supply, cooling system), which are used by overclockers and technical media such as Tom's Hardware, Linus Tech Tips, PC Gamer, and JayzTwoCents. UNIGINE benchmarks are also included as part of the Phoronix Test Suite for benchmarking purposes on Linux and other systems.
+- [Unity](https://unity.com) - Unity is a cross-platform game engine developed by Unity Technologies, first announced and released in June 2005 at Apple Worldwide Developers Conference as a Mac OS X game engine. The engine has since been gradually extended to support a variety of desktop, mobile, console and virtual reality platforms.
 - [Unreal Engine](https://www.unrealengine.com/) - The world’s most open and advanced real-time 3D creation tool. With Unreal Engine, you can bring amazing real-time experiences to life using the world’s most advanced real-time 3D creation tool.   From first projects to the most demanding challenges, our free and accessible resources and inspirational community empower everyone to realize their ambitions.
 # V (0):
 # W (0):
