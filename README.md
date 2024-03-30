@@ -26,7 +26,7 @@ make a contribution.
 - [Ct.js](https://ctjs.rocks/) - ct.js is your new 2D game editor. ct.js makes learning programming fun and game development easy by its visual tools, good docs and flexible, modular library.
 
 It is free, open-source, and is loved by hobbyists, professionals, teachers, and their students.
-# D (1):
+# D (2):
 - [Defold](https://defold.com/) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
 - [DOME](https://domeengine.com/) - DOME is a framework for making 2D games using the Wren programming language which can be played across platforms.
 # E (1):
