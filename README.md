@@ -1,5 +1,5 @@
 # Awesome game engines
-The list of **51** awesome game engines, game frameworks that you might be used to implement cool 
+The list of **52** awesome game engines, game frameworks that you might be used to implement cool 
 and awesome games.
 If you are looking for a game engines, or you are making your own game engine, then it's place for
 you. Here you can find interesting game engines and frameworks that are not well known or promote
@@ -81,10 +81,11 @@ It is free, open-source, and is loved by hobbyists, professionals, teachers, and
   - Just a C++ library with a couple of tools;
   - Also, there are experimental, optional C# bindings.
 - [Ren'Py](https://www.renpy.org/) - Ren'Py is a visual novel engine – used by thousands of creators from around the world – that helps you use words, images, and sounds to tell interactive stories that run on computers and mobile devices. These can be both visual novels and life simulation games. The easy to learn script language allows anyone to efficiently write large visual novels, while its Python scripting is enough for complex simulation games. Ren'Py is open source and free for commercial use.
-# S (4):
+# S (5):
 - [SDL](https://www.libsdl.org) - About SDL
   Simple DirectMedia Layer is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. It is used by video playback software, emulators, and popular games including Valve's award winning catalog and many Humble Bundle games.
 - [SFML](https://www.sfml-dev.org/index.php) - Simple and Fast Multimedia Library.
+- [Skylicht Engine](https://github.com/skylicht-lab/skylicht-engine) - Skylicht Engine is C++ Game Engine based on Irrlicht 3D. And the goal is to create a high-performance and lightweight Game Framework that can seamlessly function on both web and mobile platforms. This framework will be available to everyone for free.
 - [Solar2D](https://solar2d.com/) - Solar2D is a Lua based game engine with focus on ease of iterations and usage
   This is a fully open source project that is forked of the well established and widely used Corona SDK game engine, which is no longer commercially supported. Development is lead by Vlad Shcherban, former technical lead engineer at Corona Labs Inc.
 - [Stride](https://www.stride3d.net/) - Stride is an open-source C# game engine for realistic rendering and VR. The engine is highly modular and aims at giving game makers more flexibility in their development. Stride comes with an editor that allows you to create and manage the content of your games or applications visually and intuitively.
