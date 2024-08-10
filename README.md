@@ -1,5 +1,5 @@
 # Awesome game engines
-The list of **52** awesome game engines, game frameworks that you might be used to implement cool 
+The list of **53** awesome game engines, game frameworks that you might be used to implement cool 
 and awesome games.
 If you are looking for a game engines, or you are making your own game engine, then it's place for
 you. Here you can find interesting game engines and frameworks that are not well known or promote
@@ -23,13 +23,12 @@ make a contribution.
 - [Castle-engine](https://github.com/castle-engine/castle-engine) - Cross-platform (desktop, mobile, console) 3D and 2D game engine supporting many asset formats (glTF, X3D, Spine...) and using modern Object Pascal.
 - [Cocos](https://www.cocos.com/en) - Efficient, light-weight, cross-platform, all in one 3D development engine. Full coverage of various platforms,friendly and professional tools to create a virtual world.
 - [Construct 3](https://www.construct.net/) - Construct is an HTML5-based 2D video game engine developed by Scirra Ltd. It is aimed primarily at non-programmers, allowing quick creation of games through visual programming.
-- [Ct.js](https://ctjs.rocks/) - ct.js is your new 2D game editor. ct.js makes learning programming fun and game development easy by its visual tools, good docs and flexible, modular library.
-
-It is free, open-source, and is loved by hobbyists, professionals, teachers, and their students.
+- [Ct.js](https://ctjs.rocks/) - ct.js is your new 2D game editor. ct.js makes learning programming fun and game development easy by its visual tools, good docs and flexible, modular library. It is free, open-source, and is loved by hobbyists, professionals, teachers, and their students.
 # D (2):
 - [Defold](https://defold.com/) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
 - [DOME](https://domeengine.com/) - DOME is a framework for making 2D games using the Wren programming language which can be played across platforms.
-# E (1):
+# E (2):
+- [Ebitengine](https://github.com/hajimehoshi/ebiten) - Ebitengine (formerly known as Ebiten) is an open source game engine for the Go programming language. Ebitengine's simple API allows you to quickly and easily develop 2D games that can be deployed across multiple platforms.
 - [Evergine](https://evergine.com/) - The graphics development engine for business and industry. Build high-quality 3D solutions and deploy to any platform. Just released version 2023.9. This version represents a fairly significant upgrade as it adds a Metal renderer and iOS as a target platform. The Evergine game engine is free to use, with commercial support and source code licenses available.
 # F (4):
 - [FlatRedBall](https://flatredball.com/) - A game development platform, built in C#, that's perfect for indies or big studios! The FlatRedBall game engine is cross-platform, focused on 2D game development and proven across multiple shipped game projects. It’s a perfect choice for small indies or large teams. Our tools save time. Glue, a core FlatRedBall, tool generates boilerplate so teams can focus on game logic. Plugins to load popular formats like Tiled, Spriter and the Gum UI system make integration easy. FlatRedBall enables native performance with the benefit of code reuse using Xamarin. Our performance tools find problems like memory allocation and render breaks for smooth mobile performance.
