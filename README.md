@@ -1,5 +1,5 @@
 # Awesome game engines
-The list of **50** awesome game engines, game frameworks that you might be used to implement cool 
+The list of **51** awesome game engines, game frameworks that you might be used to implement cool 
 and awesome games.
 If you are looking for a game engines, or you are making your own game engine, then it's place for
 you. Here you can find interesting game engines and frameworks that are not well known or promote
@@ -56,6 +56,7 @@ It is free, open-source, and is loved by hobbyists, professionals, teachers, and
 - [Limitless Engine](https://github.com/hotstreams/limitless-engine) - Limitless Engine is a 3D graphics engine, focused on high-performance, low-overhead rendering with modern OpenGL & C++17.
 - [LÖVE](https://love2d.org/) - Hi there! LÖVE is an *awesome* framework you can use to make 2D games in Lua. It's free, open-source, and works on Windows, Mac OS X, Linux, Android and iOS.
 - [LumixEngine](https://github.com/nem0/LumixEngine) - 3D C++ Game Engine - yet another open source game engine.
+- [Lumos Engine](https://github.com/jmorton06/Lumos) - Cross-platform 2D and 3D Game Engine written in C++ that supports both OpenGL and Vulkan.
 # M (3):
 - [Mach Engine](https://github.com/hexops/mach) - Zig game engine & graphics toolkit for building high-performance, truly cross-platform, robust & modular games, visualizations, and desktop/mobile GUI apps.
 - [Minko](https://github.com/aerys/minko) - 3D framework for web, desktop and mobile devices.
