@@ -1,5 +1,5 @@
 # Awesome game engines
-The list of **55** awesome game engines, game frameworks that you might be used to implement cool 
+The list of **56** awesome game engines, game frameworks that you might be used to implement cool 
 and awesome games.
 If you are looking for a game engines, or you are making your own game engine, then it's place for
 you. Here you can find interesting game engines and frameworks that are not well known or promote
@@ -27,9 +27,10 @@ make a contribution.
 # D (2):
 - [Defold](https://defold.com/) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
 - [DOME](https://domeengine.com/) - DOME is a framework for making 2D games using the Wren programming language which can be played across platforms.
-# E (2):
+# E (3):
 - [Ebitengine](https://github.com/hajimehoshi/ebiten) - Ebitengine (formerly known as Ebiten) is an open source game engine for the Go programming language. Ebitengine's simple API allows you to quickly and easily develop 2D games that can be deployed across multiple platforms.
 - [Evergine](https://evergine.com/) - The graphics development engine for business and industry. Build high-quality 3D solutions and deploy to any platform. Just released version 2023.9. This version represents a fairly significant upgrade as it adds a Metal renderer and iOS as a target platform. The Evergine game engine is free to use, with commercial support and source code licenses available.
+- [ezEngine](https://github.com/ezEngine/ezEngine) - ezEngine is a free, open source game engine written in C++. Its philosophy is to be modular and flexible, such that it can be adapted to many different use cases. EZ utilizes a plugin system to integrate features such as FMOD or Jolt Physics. This makes it possible to only include those features that you need, or to replace systems with a custom solution that works better for your requirements. Similarly, the EZ code base can be built in multiple tiers, where you either get the entire feature set, with a fully functional editor, asset management and renderer, or you can strip it down to just the base libraries and core engine functionality. This can be extremely useful if you need to build a lot of custom technology, but require a high-performance, reliable foundation. EZ has a strong emphasis on providing robust, easy to use and well-tested base functionality. It is successfully being used in such a capacity in commercial products.
 # F (5):
 - [FlatRedBall](https://flatredball.com/) - A game development platform, built in C#, that's perfect for indies or big studios! The FlatRedBall game engine is cross-platform, focused on 2D game development and proven across multiple shipped game projects. It’s a perfect choice for small indies or large teams. Our tools save time. Glue, a core FlatRedBall, tool generates boilerplate so teams can focus on game logic. Plugins to load popular formats like Tiled, Spriter and the Gum UI system make integration easy. FlatRedBall enables native performance with the benefit of code reuse using Xamarin. Our performance tools find problems like memory allocation and render breaks for smooth mobile performance.
 - [Flax](https://flaxengine.com/) - Flax Engine is a high quality modern 3D game engine written in C++ and C#. From stunning graphics to powerful scripts - Flax can give everything for your games. Designed for fast workflow with many ready to use features waiting for you right now.
