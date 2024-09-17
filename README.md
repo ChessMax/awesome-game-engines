@@ -89,6 +89,7 @@ make a contribution.
 - [Solar2D](https://solar2d.com/) - Solar2D is a Lua based game engine with focus on ease of iterations and usage
   This is a fully open source project that is forked of the well established and widely used Corona SDK game engine, which is no longer commercially supported. Development is lead by Vlad Shcherban, former technical lead engineer at Corona Labs Inc.
 - [Stride](https://www.stride3d.net/) - Stride is an open-source C# game engine for realistic rendering and VR. The engine is highly modular and aims at giving game makers more flexibility in their development. Stride comes with an editor that allows you to create and manage the content of your games or applications visually and intuitively.
+- [SWGPU](https://github.com/jay19240/SWGPU) - SWGPU is a simple 2D/3D game library written in TypeScript and powered by the latest web APIs. It offers an easy and complete way to create classic games in a non-opinionated but recommanded coding style. From the start, we chose to embrace the future with pure WebGPU 3D rendering pipeline as the name suggests.
 # T (1):
 - [Torque3D](https://torque3d.org/) - Torque was first developed by Dynamix (Tribes, Tribes 2) in early 2000s, later acquired by GarageGames and open-sourced under MIT license.
 # U (4):
