@@ -1,5 +1,5 @@
 # Awesome game engines
-The list of **64** awesome game engines, game frameworks that you might be used to implement cool 
+The list of **65** awesome game engines, game frameworks that you might be used to implement cool 
 and awesome games.
 If you are looking for a game engines, or you are making your own game engine, then it's place for
 you. Here you can find interesting game engines and frameworks that are not well known or promote
@@ -68,7 +68,8 @@ make a contribution.
 - [Mach Engine](https://github.com/hexops/mach) - Zig game engine & graphics toolkit for building high-performance, truly cross-platform, robust & modular games, visualizations, and desktop/mobile GUI apps.
 - [Minko](https://github.com/aerys/minko) - 3D framework for web, desktop and mobile devices.
 - [Monogame](https://www.monogame.net/) - MonoGame is a simple and powerful .NET framework for creating games for desktop PCs, video game consoles, and mobile devices using the C# programming language. It has been successfully used to create games such as Streets of Rage 4, Carrion, Celeste, Stardew Valley, and many others.
-# N (0):
+# N (1):
+- [nCine](https://github.com/nCine/nCine) - nCine is a cross-platform 2D game engine that runs on PC (Linux, Windows, macOS), Android, Raspberry Pi, and the web (Emscripten). The project has been in active development since June 2011. 
 # O (4):
 - [OGRE](https://www.ogre3d.org/) - Since 2001, OGRE has grown to become one of the most popular open-source graphics rendering engines, and has been used in a large number of production projects, in such diverse areas as games, simulators, educational software, interactive art, scientific visualisation, and others.
 - [Open 3D](https://o3de.org/) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.
