@@ -1,5 +1,5 @@
 # Awesome game engines
-The list of **59** awesome game engines, game frameworks that you might be used to implement cool 
+The list of **60** awesome game engines, game frameworks that you might be used to implement cool 
 and awesome games.
 If you are looking for a game engines, or you are making your own game engine, then it's place for
 you. Here you can find interesting game engines and frameworks that are not well known or promote
@@ -14,11 +14,12 @@ make a contribution.
 # A (2):
 - [Allegro](https://liballeg.org/) - Allegro is a cross-platform library mainly aimed at video game and multimedia programming. It handles common, low-level tasks such as creating windows, accepting user input, loading data, drawing images, playing sounds, etc. and generally abstracting away the underlying platform. However, Allegro is not a game engine: you are free to design and structure your program as you like.
 - [Armory3d](https://armory3d.org/) - Armory3D is an open-source 3D game engine focused on portability, minimal footprint and performance. The renderer is fully scriptable with deferred and forward paths supported out of the box. Armory3D as a Blender add-on provides a full Blender integration, turning it into a complete game development tool and a unified workflow from start to finish.
-# B (1):
+# B (2):
 - [Bevy](https://bevyengine.org/) - A refreshingly simple data-driven game engine built in Rust Free and Open Source Forever! All engine and game logic uses Bevy ECS, a custom Entity Component System 
   - Fast: Massively Parallel and Cache-Friendly. The fastest ECS according to some benchmarks 
   - Simple: Components are Rust structs, Systems are Rust functions 
   - Capable: Queries, Global Resources, Local Resources, Change Detection, Lock-Free Parallel Scheduler
+- [Bonsai](https://github.com/scallyw4g/bonsai) - Bonsai is a 3D voxel-based engine built with the intention of writing both fast-paced arcade games and tile/turn-based RPGs.
 # C (5):
 - [Castle-engine](https://github.com/castle-engine/castle-engine) - Cross-platform (desktop, mobile, console) 3D and 2D game engine supporting many asset formats (glTF, X3D, Spine...) and using modern Object Pascal.
 - [Cocos](https://www.cocos.com/en) - Efficient, light-weight, cross-platform, all in one 3D development engine. Full coverage of various platforms,friendly and professional tools to create a virtual world.
