@@ -1,5 +1,5 @@
 # Awesome game engines
-The list of **60** awesome game engines, game frameworks that you might be used to implement cool 
+The list of **61** awesome game engines, game frameworks that you might be used to implement cool 
 and awesome games.
 If you are looking for a game engines, or you are making your own game engine, then it's place for
 you. Here you can find interesting game engines and frameworks that are not well known or promote
@@ -30,6 +30,7 @@ make a contribution.
 - [Dagon](https://github.com/gecko0307/dagon) - The goal of this project is to create a modern, easy to use, extensible 3D game engine for D language. Dagon is based on OpenGL 4.0 core profile. It currently works on Windows and Linux.
 - [Defold](https://defold.com/) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
 - [DOME](https://domeengine.com/) - DOME is a framework for making 2D games using the Wren programming language which can be played across platforms.
+- [Dusk](https://github.com/zet23t/dusk-engine) - Dusk Engine aims to be a simple 3D engine for games based on raylib using plain C. 
 # E (3):
 - [Ebitengine](https://github.com/hajimehoshi/ebiten) - Ebitengine (formerly known as Ebiten) is an open source game engine for the Go programming language. Ebitengine's simple API allows you to quickly and easily develop 2D games that can be deployed across multiple platforms.
 - [Evergine](https://evergine.com/) - The graphics development engine for business and industry. Build high-quality 3D solutions and deploy to any platform. Just released version 2023.9. This version represents a fairly significant upgrade as it adds a Metal renderer and iOS as a target platform. The Evergine game engine is free to use, with commercial support and source code licenses available.
