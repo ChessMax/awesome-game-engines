@@ -1,5 +1,5 @@
 # Awesome game engines
-The list of **74** awesome game engines, game frameworks that you might be used to implement cool 
+The list of **75** awesome game engines, game frameworks that you might be used to implement cool 
 and awesome games.
 If you are looking for a game engines, or you are making your own game engine, then it's place for
 you. Here you can find interesting game engines and frameworks that are not well known or promote
@@ -110,7 +110,8 @@ make a contribution.
 - [Torque3D](https://torque3d.org/) - Torque was first developed by Dynamix (Tribes, Tribes 2) in early 2000s, later acquired by GarageGames and open-sourced under MIT license.
 - [Traktor](https://github.com/apistol78/traktor) - Traktor is an open-source 3d game engine written in C++, it has powered several successful commercial titles across various platforms including Steam, PSN, iOS, and the Mac Store.
 - [Turso3d](https://github.com/cadaver/turso3d) - Experimental 3D / game engine technology partially based on the Urho3D codebase. Expected to remain in an immature or "toy" state for the time being.
-# U (4):
+# U (5):
+- [U3D](https://github.com/u3d-community/U3D) - U3D is a open source, lightweight, cross-platform 2D and 3D game engine implemented in C++. Forked from Urho3D and greatly inspired by OGRE and Horde3D.
 - [UPBGE](https://upbge.org) - UPBGE is an open-source, 3D game engine forked from the old Blender Game Engine and deployed with Blender itself. This unified workflow is its main strength, as you can make your game from start to finish without leaving Blender.
 - [Unigine](https://unigine.com/) - UNIGINE is a proprietary cross-platform game engine developed by UNIGINE Company used in simulators, virtual reality systems, serious games and visualization. It supports OpenGL 4, Vulkan and DirectX 12. UNIGINE Engine is a core technology for a lineup of benchmarks (CPU, GPU, power supply, cooling system), which are used by overclockers and technical media such as Tom's Hardware, Linus Tech Tips, PC Gamer, and JayzTwoCents. UNIGINE benchmarks are also included as part of the Phoronix Test Suite for benchmarking purposes on Linux and other systems.
 - [Unity](https://unity.com) - Unity is a cross-platform game engine developed by Unity Technologies, first announced and released in June 2005 at Apple Worldwide Developers Conference as a Mac OS X game engine. The engine has since been gradually extended to support a variety of desktop, mobile, console and virtual reality platforms.
