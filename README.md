@@ -1,5 +1,5 @@
 # Awesome game engines
-The list of **67** awesome game engines, game frameworks that you might be used to implement cool 
+The list of **68** awesome game engines, game frameworks that you might be used to implement cool 
 and awesome games.
 If you are looking for a game engines, or you are making your own game engine, then it's place for
 you. Here you can find interesting game engines and frameworks that are not well known or promote
@@ -100,9 +100,10 @@ make a contribution.
   This is a fully open source project that is forked of the well established and widely used Corona SDK game engine, which is no longer commercially supported. Development is lead by Vlad Shcherban, former technical lead engineer at Corona Labs Inc.
 - [Stride](https://www.stride3d.net/) - Stride is an open-source C# game engine for realistic rendering and VR. The engine is highly modular and aims at giving game makers more flexibility in their development. Stride comes with an editor that allows you to create and manage the content of your games or applications visually and intuitively.
 - [SWGPU](https://github.com/jay19240/SWGPU) - SWGPU is a simple 2D/3D game library written in TypeScript and powered by the latest web APIs. It offers an easy and complete way to create classic games in a non-opinionated but recommanded coding style. From the start, we chose to embrace the future with pure WebGPU 3D rendering pipeline as the name suggests.
-# T (2):
+# T (3):
 - [3DWorld](https://github.com/fegennari/3DWorld) - 3DWorld is a cross-platform OpenGL-based 3D Game Engine created after the CS184 computer graphics course at UC Berkeley in 2001.
 - [Torque3D](https://torque3d.org/) - Torque was first developed by Dynamix (Tribes, Tribes 2) in early 2000s, later acquired by GarageGames and open-sourced under MIT license.
+- [Traktor](https://github.com/apistol78/traktor) - Traktor is an open-source 3d game engine written in C++, it has powered several successful commercial titles across various platforms including Steam, PSN, iOS, and the Mac Store.
 # U (4):
 - [UPBGE](https://upbge.org) - UPBGE is an open-source, 3D game engine forked from the old Blender Game Engine and deployed with Blender itself. This unified workflow is its main strength, as you can make your game from start to finish without leaving Blender.
 - [Unigine](https://unigine.com/) - UNIGINE is a proprietary cross-platform game engine developed by UNIGINE Company used in simulators, virtual reality systems, serious games and visualization. It supports OpenGL 4, Vulkan and DirectX 12. UNIGINE Engine is a core technology for a lineup of benchmarks (CPU, GPU, power supply, cooling system), which are used by overclockers and technical media such as Tom's Hardware, Linus Tech Tips, PC Gamer, and JayzTwoCents. UNIGINE benchmarks are also included as part of the Phoronix Test Suite for benchmarking purposes on Linux and other systems.
