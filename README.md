@@ -1,5 +1,5 @@
 # Awesome game engines
-The list of **71** awesome game engines, game frameworks that you might be used to implement cool 
+The list of **72** awesome game engines, game frameworks that you might be used to implement cool 
 and awesome games.
 If you are looking for a game engines, or you are making your own game engine, then it's place for
 you. Here you can find interesting game engines and frameworks that are not well known or promote
@@ -60,9 +60,10 @@ make a contribution.
 - [jle](https://github.com/Mormert/jle) - A simple, yet powerful custom-made C++ game engine intended for PC games.   The engine is developed alongside an unannounced game. [WIP]
 - [jMonkeyEngine](https://jmonkeyengine.org/) - jMonkeyEngine is a modern developer friendly game engine written in primarily in Java. Its minimalistic and code first approach makes it perfect for deveopers who want the support of a game engine while retaining full control over their code with the ability to extend and adapt the engine to their workflow.
 # K (0):
-# L (6):
+# L (7):
 - [LibGDX](https://libgdx.com/) - Cross-platform Game Development Framework. libGDX is a cross-platform Java game development framework based on OpenGL (ES), designed for Windows, Linux, macOS, Android, web browsers, and iOS. It provides a robust and well-established environment for rapid prototyping and iterative development. Unlike other frameworks, libGDX does not impose a specific design or coding style, allowing you the freedom to create games according to your preferences.
 - [Limitless Engine](https://github.com/hotstreams/limitless-engine) - Limitless Engine is a 3D graphics engine, focused on high-performance, low-overhead rendering with modern OpenGL & C++17.
+- [Lina Engine](https://github.com/inanevin/LinaEngine) - Lina Engine is an open-source , modular, tiny and fast C++ game engine, aimed to develop 3D desktop games.
 - [LÖVE](https://love2d.org/) - Hi there! LÖVE is an *awesome* framework you can use to make 2D games in Lua. It's free, open-source, and works on Windows, Mac OS X, Linux, Android and iOS.
 - [LumixEngine](https://github.com/nem0/LumixEngine) - 3D C++ Game Engine - yet another open source game engine.
 - [Limon](https://github.com/enginmanap/limonEngine) - Limon is a multi platform 3D game engine mainly focusing on first person games. Focus of its development is ease of use and ease of study.
