@@ -1,5 +1,5 @@
 # Awesome game engines
-The list of **72** awesome game engines, game frameworks that you might be used to implement cool 
+The list of **73** awesome game engines, game frameworks that you might be used to implement cool 
 and awesome games.
 If you are looking for a game engines, or you are making your own game engine, then it's place for
 you. Here you can find interesting game engines and frameworks that are not well known or promote
@@ -56,9 +56,10 @@ make a contribution.
 - [Hork-Source](https://github.com/Hork-Engine/Hork-Source) - Game engine developed for Quake-style 3D games, but it is possible to create games of other genres.
 - [HypeHype](https://hypehype.com) - HypeHype is a new revolutionary way to create, remix and play games on your phone. Our mission is to empower anyone to become a game maker through simple, fun and free tools on mobile devices.
 # I (0):
-# J (2):
+# J (3):
 - [jle](https://github.com/Mormert/jle) - A simple, yet powerful custom-made C++ game engine intended for PC games.   The engine is developed alongside an unannounced game. [WIP]
 - [jMonkeyEngine](https://jmonkeyengine.org/) - jMonkeyEngine is a modern developer friendly game engine written in primarily in Java. Its minimalistic and code first approach makes it perfect for deveopers who want the support of a game engine while retaining full control over their code with the ability to extend and adapt the engine to their workflow.
+- [jngl](https://github.com/jhasse/jngl) - Easy to use cross-platform 2D game library for C++
 # K (0):
 # L (7):
 - [LibGDX](https://libgdx.com/) - Cross-platform Game Development Framework. libGDX is a cross-platform Java game development framework based on OpenGL (ES), designed for Windows, Linux, macOS, Android, web browsers, and iOS. It provides a robust and well-established environment for rapid prototyping and iterative development. Unlike other frameworks, libGDX does not impose a specific design or coding style, allowing you the freedom to create games according to your preferences.
