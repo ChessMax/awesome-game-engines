@@ -1,5 +1,5 @@
 # Awesome game engines
-The list of **77** awesome game engines, game frameworks that you might be used to implement cool 
+The list of **7*** awesome game engines, game frameworks that you might be used to implement cool 
 and awesome games.
 If you are looking for a game engines, or you are making your own game engine, then it's place for
 you. Here you can find interesting game engines and frameworks that are not well known or promote
@@ -107,8 +107,9 @@ make a contribution.
   This is a fully open source project that is forked of the well established and widely used Corona SDK game engine, which is no longer commercially supported. Development is lead by Vlad Shcherban, former technical lead engineer at Corona Labs Inc.
 - [Stride](https://www.stride3d.net/) - Stride is an open-source C# game engine for realistic rendering and VR. The engine is highly modular and aims at giving game makers more flexibility in their development. Stride comes with an editor that allows you to create and manage the content of your games or applications visually and intuitively.
 - [SWGPU](https://github.com/jay19240/SWGPU) - SWGPU is a simple 2D/3D game library written in TypeScript and powered by the latest web APIs. It offers an easy and complete way to create classic games in a non-opinionated but recommanded coding style. From the start, we chose to embrace the future with pure WebGPU 3D rendering pipeline as the name suggests.
-# T (4):
+# T (5):
 - [3DWorld](https://github.com/fegennari/3DWorld) - 3DWorld is a cross-platform OpenGL-based 3D Game Engine created after the CS184 computer graphics course at UC Berkeley in 2001.
+- [Thunder](https://github.com/thunder-engine/thunder) - Thunder Engine is free for all purposes an open-source multi-functional lightweight game engine for creating 2D and 3D games. It provides a basic framework and extensible tools. So developers can focus on the creation, and the Thunder Engine will do the routine.
 - [Torque3D](https://torque3d.org/) - Torque was first developed by Dynamix (Tribes, Tribes 2) in early 2000s, later acquired by GarageGames and open-sourced under MIT license.
 - [Traktor](https://github.com/apistol78/traktor) - Traktor is an open-source 3d game engine written in C++, it has powered several successful commercial titles across various platforms including Steam, PSN, iOS, and the Mac Store.
 - [Turso3d](https://github.com/cadaver/turso3d) - Experimental 3D / game engine technology partially based on the Urho3D codebase. Expected to remain in an immature or "toy" state for the time being.
