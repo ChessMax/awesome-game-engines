@@ -87,8 +87,9 @@ make a contribution.
 - [OpenMW](https://openmw.org/) - OpenMW is a free and open-source game engine recreation that reimplements the one powering Bethesda Softworks' 2002 open-world role-playing game The Elder Scrolls III: Morrowind.
 - [Orx](https://orx-project.org/) - Orx is a 2.5D data-driven game development engine. It is open source, ultra-fast, multi-platform and full-featured for C/C++ programmers: beginners and experts alike.
 - [Overload](https://github.com/Overload-Technologies/Overload) - Overload is a free, open-source 3D game engine made in C++ with Lua as its scripting language.
-# P (1):
+# P (2):
 - [Phaser](https://phaser.io/) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+- [Parin](https://github.com/Kapendev/parin) - A delightfully simple 2D game engine for the D programming language. Parin is designed to make game development fast and fun — it's easy to set up, hackable, and comes with the essentials built in.
 # Q (0):
 # R (4):
 - [RavEngine](https://github.com/RavEngine/RavEngine) - A fast C++20 3D game engine for modern devices, with wide platform support.
