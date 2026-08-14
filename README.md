@@ -33,6 +33,7 @@ make a contribution.
 - [Cute framework](https://github.com/RandyGaul/cute_framework) - Cute Framework (CF) is the cutest framework available for making 2D games in C++. It provides a portable foundational layer for building 2D games in C/C++ without baggage, gnarly dependencies, or cryptic APIs. CF runs almost anywhere, including Windows, MacOS, iOS, Android, Linux, Browsers, and more!
 # D (6):
 - [Dagon](https://github.com/gecko0307/dagon) - The goal of this project is to create a modern, easy to use, extensible 3D game engine for D language. Dagon is based on OpenGL 4.0 core profile. It currently works on Windows and Linux.
+- [Dagor](https://github.com/GaijinEntertainment/DagorEngine) - Previously closed source engine made by Gajin Entertainment.
 - [Defold](https://defold.com/) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
 - [DOME](https://domeengine.com/) - DOME is a framework for making 2D games using the Wren programming language which can be played across platforms.
 - [Drag\[en\]gine](https://dragondreams.ch/index.php/dragengine/) - The Drag\[en]gine Game Engine is a free software game engine focusing on developing games faster, more modular and stable with true -1 day portability support.
