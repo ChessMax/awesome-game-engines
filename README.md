@@ -1,5 +1,5 @@
 # Awesome game engines
-The list of **88** awesome game engines, game frameworks that you might be used to implement cool
+The list of **89** awesome game engines, game frameworks that you might be used to implement cool
 and awesome games.
 If you are looking for a game engines, or you are making your own game engine, then it's place for
 you. Here you can find interesting game engines and frameworks that are not well known or promote
@@ -32,7 +32,7 @@ make a contribution.
 - [Crown](https://github.com/crownengine/crown) - Crown is a general purpose and data-driven 3D and 2D game engine, written in orthodox C++ with a minimalistic and data-oriented design philosophy in mind.
 - [Ct.js](https://ctjs.rocks/) - ct.js is your new 2D game editor. ct.js makes learning programming fun and game development easy by its visual tools, good docs and flexible, modular library. It is free, open-source, and is loved by hobbyists, professionals, teachers, and their students.
 - [Cute framework](https://github.com/RandyGaul/cute_framework) - Cute Framework (CF) is the cutest framework available for making 2D games in C++. It provides a portable foundational layer for building 2D games in C/C++ without baggage, gnarly dependencies, or cryptic APIs. CF runs almost anywhere, including Windows, MacOS, iOS, Android, Linux, Browsers, and more!
-# D (6):
+# D (7):
 - [Dagon](https://github.com/gecko0307/dagon) - The goal of this project is to create a modern, easy to use, extensible 3D game engine for D language. Dagon is based on OpenGL 4.0 core profile. It currently works on Windows and Linux.
 - [Dagor](https://github.com/GaijinEntertainment/DagorEngine) - Formerly closed source 3D game engine made and mostly used by Gajin Entertainment.
 - [Defold](https://defold.com/) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
