@@ -1,5 +1,5 @@
 # Awesome game engines
-The list of **90** awesome game engines, game frameworks that you might be used to implement cool
+The list of **92** awesome game engines, game frameworks that you might be used to implement cool
 and awesome games.
 If you are looking for a game engines, or you are making your own game engine, then it's place for
 you. Here you can find interesting game engines and frameworks that are not well known or promote
@@ -22,7 +22,7 @@ make a contribution.
   - Simple: Components are Rust structs, Systems are Rust functions 
   - Capable: Queries, Global Resources, Local Resources, Change Detection, Lock-Free Parallel Scheduler
 - [Bonsai](https://github.com/scallyw4g/bonsai) - Bonsai is a 3D voxel-based engine built with the intention of writing both fast-paced arcade games and tile/turn-based RPGs.
-# C (9):
+# C (10):
 - [C4 engine ](https://c4engine.com/) - The C4 Engine has been in continuous development by Eric Lengyel since 1999. He leads a small team that is making a first-person shooter called The 31st.
 - [Castle-engine](https://github.com/castle-engine/castle-engine) - Cross-platform (desktop, mobile, console) 3D and 2D game engine supporting many asset formats (glTF, X3D, Spine...) and using modern Object Pascal.
 - [Cocos](https://www.cocos.com/en) - Efficient, light-weight, cross-platform, all in one 3D development engine. Full coverage of various platforms,friendly and professional tools to create a virtual world.
@@ -31,6 +31,7 @@ make a contribution.
 - [Construct 3](https://www.construct.net/) - Construct is an HTML5-based 2D video game engine developed by Scirra Ltd. It is aimed primarily at non-programmers, allowing quick creation of games through visual programming.
 - [Crown](https://github.com/crownengine/crown) - Crown is a general purpose and data-driven 3D and 2D game engine, written in orthodox C++ with a minimalistic and data-oriented design philosophy in mind.
 - [Ct.js](https://ctjs.rocks/) - ct.js is your new 2D game editor. ct.js makes learning programming fun and game development easy by its visual tools, good docs and flexible, modular library. It is free, open-source, and is loved by hobbyists, professionals, teachers, and their students.
+- [cubacadabra](https://cubacadabra.com/about/) - An open-source project building a user-generated gaming platform for creators, children, and parents. [AI]
 - [Cute framework](https://github.com/RandyGaul/cute_framework) - Cute Framework (CF) is the cutest framework available for making 2D games in C++. It provides a portable foundational layer for building 2D games in C/C++ without baggage, gnarly dependencies, or cryptic APIs. CF runs almost anywhere, including Windows, MacOS, iOS, Android, Linux, Browsers, and more!
 # D (7):
 - [Dagon](https://github.com/gecko0307/dagon) - The goal of this project is to create a modern, easy to use, extensible 3D game engine for D language. Dagon is based on OpenGL 4.0 core profile. It currently works on Windows and Linux.
@@ -87,10 +88,11 @@ make a contribution.
 - [nCine](https://github.com/nCine/nCine) - nCine is a cross-platform 2D game engine that runs on PC (Linux, Windows, macOS), Android, Raspberry Pi, and the web (Emscripten). The project has been in active development since June 2011.
 - [Nebula](https://github.com/gscept/nebula) - Nebula is an open-source and free-to-use modern C++ game engine.
 - [Nuake](https://github.com/antopilo/Nuake) - Nuake is a boutique game engine inspired by Quake. It focuses on fast level design iteration time that integrates with quake level editing software.
-# O (5):
+# O (6):
 - [OGRE](https://www.ogre3d.org/) - Since 2001, OGRE has grown to become one of the most popular open-source graphics rendering engines, and has been used in a large number of production projects, in such diverse areas as games, simulators, educational software, interactive art, scientific visualisation, and others.
 - [Open 3D](https://o3de.org/) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.
 - [OpenMW](https://openmw.org/) - OpenMW is a free and open-source game engine recreation that reimplements the one powering Bethesda Softworks' 2002 open-world role-playing game The Elder Scrolls III: Morrowind.
+- [Orbem Studio](https://orbem.studio/) - Orbem Studio is a no-code 2D browser game engine built on WordPress that renders entirely on the DOM, without canvas or WebGL. Games are live at their own URL from the moment building starts, with no export or separate hosting step, and the engine includes a built-in pixel art and animation tool.
 - [Orx](https://orx-project.org/) - Orx is a 2.5D data-driven game development engine. It is open source, ultra-fast, multi-platform and full-featured for C/C++ programmers: beginners and experts alike.
 - [Overload](https://github.com/Overload-Technologies/Overload) - Overload is a free, open-source 3D game engine made in C++ with Lua as its scripting language.
 # P (2):
