@@ -1,5 +1,5 @@
 # Awesome game engines
-The list of **90** awesome game engines, game frameworks that you might be used to implement cool
+The list of **91** awesome game engines, game frameworks that you might be used to implement cool
 and awesome games.
 If you are looking for a game engines, or you are making your own game engine, then it's place for
 you. Here you can find interesting game engines and frameworks that are not well known or promote
@@ -31,7 +31,7 @@ make a contribution.
 - [Construct 3](https://www.construct.net/) - Construct is an HTML5-based 2D video game engine developed by Scirra Ltd. It is aimed primarily at non-programmers, allowing quick creation of games through visual programming.
 - [Crown](https://github.com/crownengine/crown) - Crown is a general purpose and data-driven 3D and 2D game engine, written in orthodox C++ with a minimalistic and data-oriented design philosophy in mind.
 - [Ct.js](https://ctjs.rocks/) - ct.js is your new 2D game editor. ct.js makes learning programming fun and game development easy by its visual tools, good docs and flexible, modular library. It is free, open-source, and is loved by hobbyists, professionals, teachers, and their students.
-- [cubacadabra](https://cubacadabra.com/about/) - An open-source project building a user-generated gaming platform for creators, children, and parents.
+- [cubacadabra](https://cubacadabra.com/about/) - An open-source project building a user-generated gaming platform for creators, children, and parents. [AI]
 - [Cute framework](https://github.com/RandyGaul/cute_framework) - Cute Framework (CF) is the cutest framework available for making 2D games in C++. It provides a portable foundational layer for building 2D games in C/C++ without baggage, gnarly dependencies, or cryptic APIs. CF runs almost anywhere, including Windows, MacOS, iOS, Android, Linux, Browsers, and more!
 # D (7):
 - [Dagon](https://github.com/gecko0307/dagon) - The goal of this project is to create a modern, easy to use, extensible 3D game engine for D language. Dagon is based on OpenGL 4.0 core profile. It currently works on Windows and Linux.
