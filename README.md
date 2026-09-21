@@ -90,6 +90,7 @@ make a contribution.
 - [OGRE](https://www.ogre3d.org/) - Since 2001, OGRE has grown to become one of the most popular open-source graphics rendering engines, and has been used in a large number of production projects, in such diverse areas as games, simulators, educational software, interactive art, scientific visualisation, and others.
 - [Open 3D](https://o3de.org/) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.
 - [OpenMW](https://openmw.org/) - OpenMW is a free and open-source game engine recreation that reimplements the one powering Bethesda Softworks' 2002 open-world role-playing game The Elder Scrolls III: Morrowind.
+- [Orbem Studio](https://orbem.studio/) - Orbem Studio is a no-code 2D browser game engine built on WordPress that renders entirely on the DOM, without canvas or WebGL. Games are live at their own URL from the moment building starts, with no export or separate hosting step, and the engine includes a built-in pixel art and animation tool.
 - [Orx](https://orx-project.org/) - Orx is a 2.5D data-driven game development engine. It is open source, ultra-fast, multi-platform and full-featured for C/C++ programmers: beginners and experts alike.
 - [Overload](https://github.com/Overload-Technologies/Overload) - Overload is a free, open-source 3D game engine made in C++ with Lua as its scripting language.
 # P (2):
