@@ -1,5 +1,5 @@
 # Awesome game engines
-The list of **92** awesome game engines, game frameworks that you might be used to implement cool
+The list of **93** awesome game engines, game frameworks that you might be used to implement cool
 and awesome games.
 If you are looking for a game engines, or you are making your own game engine, then it's place for
 you. Here you can find interesting game engines and frameworks that are not well known or promote
@@ -95,9 +95,10 @@ make a contribution.
 - [Orbem Studio](https://orbem.studio/) - Orbem Studio is a no-code 2D browser game engine built on WordPress that renders entirely on the DOM, without canvas or WebGL. Games are live at their own URL from the moment building starts, with no export or separate hosting step, and the engine includes a built-in pixel art and animation tool.
 - [Orx](https://orx-project.org/) - Orx is a 2.5D data-driven game development engine. It is open source, ultra-fast, multi-platform and full-featured for C/C++ programmers: beginners and experts alike.
 - [Overload](https://github.com/Overload-Technologies/Overload) - Overload is a free, open-source 3D game engine made in C++ with Lua as its scripting language.
-# P (2):
+# P (3):
 - [Phaser](https://phaser.io/) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [Parin](https://github.com/Kapendev/parin) - A delightfully simple 2D game engine for the D programming language. Parin is designed to make game development fast and fun — it's easy to set up, hackable, and comes with the essentials built in.
+- [Pyxel](https://github.com/kitao/pyxel) - An open-source retro game engine for Python with built-in editors for pixel art, tilemaps, sound effects, and music. Games can run on desktop and in a browser.
 # Q (0):
 # R (4):
 - [RavEngine](https://github.com/RavEngine/RavEngine) - A fast C++20 3D game engine for modern devices, with wide platform support.
