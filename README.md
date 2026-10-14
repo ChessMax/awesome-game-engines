@@ -98,6 +98,7 @@ make a contribution.
 # P (2):
 - [Phaser](https://phaser.io/) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [Parin](https://github.com/Kapendev/parin) - A delightfully simple 2D game engine for the D programming language. Parin is designed to make game development fast and fun — it's easy to set up, hackable, and comes with the essentials built in.
+- [Parlour](https://github.com/braedonsaunders/parlour) - Deterministic TypeScript card-game engine with a cozy browser table (Blitz, Wild, P2P rooms, no backend).
 # Q (0):
 # R (4):
 - [RavEngine](https://github.com/RavEngine/RavEngine) - A fast C++20 3D game engine for modern devices, with wide platform support.
