@@ -1,5 +1,5 @@
 # Awesome game engines
-The list of **94** awesome game engines, game frameworks that you might be used to implement cool
+The list of **96** awesome game engines, game frameworks that you might be used to implement cool
 and awesome games.
 If you are looking for a game engines, or you are making your own game engine, then it's place for
 you. Here you can find interesting game engines and frameworks that are not well known or promote
@@ -80,7 +80,7 @@ make a contribution.
 # M (6):
 - [Mach Engine](https://github.com/hexops/mach) - Zig game engine & graphics toolkit for building high-performance, truly cross-platform, robust & modular games, visualizations, and desktop/mobile GUI apps.
 - [Matali Physics](https://www.mataliphysics.com) - A comprehensive, cross-platform 3D physics environment offering an alternative approach to creating 3d computer games by delivering an all-in-one physics-driven solution that simplifies complex motion simulation, collision detection, and environmental interactions where the entire game logic, scene management, GUI, sound, music, and character AI are fully driven by the physics simulation.
-- [Mibo](https://github.com/AngelMunoz/Mibo) - Elmish/MVU F# game framework with interchangeable raylib-cs and MonoGame backends.
+- [Mibo](https://github.com/AngelMunoz/Mibo) - Elmish/MVU F# game framework with interchangeable raylib-cs and MonoGame backends. [AI]
 - [Minko](https://github.com/aerys/minko) - 3D framework for web, desktop and mobile devices.
 - [Monogame](https://www.monogame.net/) - MonoGame is a simple and powerful .NET framework for creating games for desktop PCs, video game consoles, and mobile devices using the C# programming language. It has been successfully used to create games such as Streets of Rage 4, Carrion, Celeste, Stardew Valley, and many others.
 - [Mini Micro](https://miniscript.org/MiniMicro/) - Mini Micro is beginner-friendly, with a programming language literally designed to be easy to learn.  Start with simple text-based programs or simple pixel graphics, and work up to sophisticated multi-layer games using sprites, tiles, networking via REST calls, and more.  Mini Micro users range from kids under 12 to professional software engineers hacking around in their spare time. It's easy to learn, but deep enough for years.
