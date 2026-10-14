@@ -1,5 +1,5 @@
 # Awesome game engines
-The list of **92** awesome game engines, game frameworks that you might be used to implement cool
+The list of **93** awesome game engines, game frameworks that you might be used to implement cool
 and awesome games.
 If you are looking for a game engines, or you are making your own game engine, then it's place for
 you. Here you can find interesting game engines and frameworks that are not well known or promote
@@ -138,7 +138,8 @@ make a contribution.
 # W (0):
 # X (0):
 # Y (0):
-# Z (1):
+# Z (2):
+- [Zero](https://origozero.ai/zero-engine) - Zero is a 3D game engine that runs in a browser tab on WebGPU and is scripted in Luau. AI agents build games in it through a hosted MCP server, and a published game plays in a browser tab from a link. Proprietary, with a free plan. [AI]
 - [ZXEngine](https://github.com/AshenvaleZX/ZXEngine) - C++ game engine project, for learning, practice and experiment.
 
 # See also:
