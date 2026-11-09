@@ -1,5 +1,6 @@
 # Awesome game engines
-The list of **93** awesome game engines, game frameworks that you might be used to implement cool
+
+The list of **97** awesome game engines, game frameworks that you might be used to implement cool
 and awesome games.
 If you are looking for a game engines, or you are making your own game engine, then it's place for
 you. Here you can find interesting game engines and frameworks that are not well known or promote
@@ -77,16 +78,18 @@ make a contribution.
 - [LumixEngine](https://github.com/nem0/LumixEngine) - 3D C++ Game Engine - yet another open source game engine.
 - [Limon](https://github.com/enginmanap/limonEngine) - Limon is a multi platform 3D game engine mainly focusing on first person games. Focus of its development is ease of use and ease of study.
 - [Lumos Engine](https://github.com/jmorton06/Lumos) - Cross-platform 2D and 3D Game Engine written in C++ that supports both OpenGL and Vulkan.
-# M (5):
+# M (6):
 - [Mach Engine](https://github.com/hexops/mach) - Zig game engine & graphics toolkit for building high-performance, truly cross-platform, robust & modular games, visualizations, and desktop/mobile GUI apps.
 - [Matali Physics](https://www.mataliphysics.com) - A comprehensive, cross-platform 3D physics environment offering an alternative approach to creating 3d computer games by delivering an all-in-one physics-driven solution that simplifies complex motion simulation, collision detection, and environmental interactions where the entire game logic, scene management, GUI, sound, music, and character AI are fully driven by the physics simulation.
+- [Mibo](https://github.com/AngelMunoz/Mibo) - Elmish/MVU F# game framework with interchangeable raylib-cs and MonoGame backends. [AI]
 - [Minko](https://github.com/aerys/minko) - 3D framework for web, desktop and mobile devices.
 - [Monogame](https://www.monogame.net/) - MonoGame is a simple and powerful .NET framework for creating games for desktop PCs, video game consoles, and mobile devices using the C# programming language. It has been successfully used to create games such as Streets of Rage 4, Carrion, Celeste, Stardew Valley, and many others.
 - [Mini Micro](https://miniscript.org/MiniMicro/) - Mini Micro is beginner-friendly, with a programming language literally designed to be easy to learn.  Start with simple text-based programs or simple pixel graphics, and work up to sophisticated multi-layer games using sprites, tiles, networking via REST calls, and more.  Mini Micro users range from kids under 12 to professional software engineers hacking around in their spare time. It's easy to learn, but deep enough for years.
-# N (4):
+# N (5):
 - [Nau](https://github.com/NauEngine/NauEnginePublic) - Nau Engine is a free open-source game engine that's designed to be versatile and accessible to everyone.
 - [nCine](https://github.com/nCine/nCine) - nCine is a cross-platform 2D game engine that runs on PC (Linux, Windows, macOS), Android, Raspberry Pi, and the web (Emscripten). The project has been in active development since June 2011.
 - [Nebula](https://github.com/gscept/nebula) - Nebula is an open-source and free-to-use modern C++ game engine.
+- [Nu Game Engine](https://github.com/bryanedds/Nu) - Functional 2D/3D cross-platform game engine written in F#, with ImSim and MMCC APIs and an editor (Gaia).
 - [Nuake](https://github.com/antopilo/Nuake) - Nuake is a boutique game engine inspired by Quake. It focuses on fast level design iteration time that integrates with quake level editing software.
 # O (6):
 - [OGRE](https://www.ogre3d.org/) - Since 2001, OGRE has grown to become one of the most popular open-source graphics rendering engines, and has been used in a large number of production projects, in such diverse areas as games, simulators, educational software, interactive art, scientific visualisation, and others.
@@ -95,9 +98,10 @@ make a contribution.
 - [Orbem Studio](https://orbem.studio/) - Orbem Studio is a no-code 2D browser game engine built on WordPress that renders entirely on the DOM, without canvas or WebGL. Games are live at their own URL from the moment building starts, with no export or separate hosting step, and the engine includes a built-in pixel art and animation tool.
 - [Orx](https://orx-project.org/) - Orx is a 2.5D data-driven game development engine. It is open source, ultra-fast, multi-platform and full-featured for C/C++ programmers: beginners and experts alike.
 - [Overload](https://github.com/Overload-Technologies/Overload) - Overload is a free, open-source 3D game engine made in C++ with Lua as its scripting language.
-# P (3):
+# P (4):
 - [Phaser](https://phaser.io/) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [Parin](https://github.com/Kapendev/parin) - A delightfully simple 2D game engine for the D programming language. Parin is designed to make game development fast and fun — it's easy to set up, hackable, and comes with the essentials built in.
+- [Parlour](https://github.com/braedonsaunders/parlour) - Deterministic TypeScript card-game engine with a cozy browser table (Blitz, Wild, P2P rooms, no backend).
 - [Pyxel](https://github.com/kitao/pyxel) - An open-source retro game engine for Python with built-in editors for pixel art, tilemaps, sound effects, and music. Games can run on desktop and in a browser.
 # Q (0):
 # R (4):
@@ -139,7 +143,8 @@ make a contribution.
 # W (0):
 # X (0):
 # Y (0):
-# Z (1):
+# Z (2):
+- [Zero](https://origozero.ai/zero-engine) - Zero is a 3D game engine that runs in a browser tab on WebGPU and is scripted in Luau. AI agents build games in it through a hosted MCP server, and a published game plays in a browser tab from a link. Proprietary, with a free plan. [AI]
 - [ZXEngine](https://github.com/AshenvaleZX/ZXEngine) - C++ game engine project, for learning, practice and experiment.
 
 # See also:
