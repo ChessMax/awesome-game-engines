@@ -1,6 +1,5 @@
 # Awesome game engines
-
-The list of **97** awesome game engines, game frameworks that you might be used to implement cool
+The list of **98** awesome game engines, game frameworks that you might be used to implement cool
 and awesome games.
 If you are looking for a game engines, or you are making your own game engine, then it's place for
 you. Here you can find interesting game engines and frameworks that are not well known or promote
@@ -78,9 +77,10 @@ make a contribution.
 - [LumixEngine](https://github.com/nem0/LumixEngine) - 3D C++ Game Engine - yet another open source game engine.
 - [Limon](https://github.com/enginmanap/limonEngine) - Limon is a multi platform 3D game engine mainly focusing on first person games. Focus of its development is ease of use and ease of study.
 - [Lumos Engine](https://github.com/jmorton06/Lumos) - Cross-platform 2D and 3D Game Engine written in C++ that supports both OpenGL and Vulkan.
-# M (6):
+# M (7):
 - [Mach Engine](https://github.com/hexops/mach) - Zig game engine & graphics toolkit for building high-performance, truly cross-platform, robust & modular games, visualizations, and desktop/mobile GUI apps.
 - [Matali Physics](https://www.mataliphysics.com) - A comprehensive, cross-platform 3D physics environment offering an alternative approach to creating 3d computer games by delivering an all-in-one physics-driven solution that simplifies complex motion simulation, collision detection, and environmental interactions where the entire game logic, scene management, GUI, sound, music, and character AI are fully driven by the physics simulation.
+- [melonJS](https://melonjs.org/) - A modern & fully featured open-source HTML5 game engine (2D & 3D) for JavaScript/TypeScript, with WebGPU/WebGL 2 rendering and Canvas fallback, built-in physics, Tiled map and glTF scene support, WebAudio, and built-in Agent Skills that teach AI coding assistants the engine API.
 - [Mibo](https://github.com/AngelMunoz/Mibo) - Elmish/MVU F# game framework with interchangeable raylib-cs and MonoGame backends. [AI]
 - [Minko](https://github.com/aerys/minko) - 3D framework for web, desktop and mobile devices.
 - [Monogame](https://www.monogame.net/) - MonoGame is a simple and powerful .NET framework for creating games for desktop PCs, video game consoles, and mobile devices using the C# programming language. It has been successfully used to create games such as Streets of Rage 4, Carrion, Celeste, Stardew Valley, and many others.
