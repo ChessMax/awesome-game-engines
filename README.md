@@ -1,5 +1,5 @@
 # Awesome game engines
-The list of **98** awesome game engines, game frameworks that you might be used to implement cool
+The list of **99** awesome game engines, game frameworks that you might be used to implement cool
 and awesome games.
 If you are looking for a game engines, or you are making your own game engine, then it's place for
 you. Here you can find interesting game engines and frameworks that are not well known or promote
@@ -103,7 +103,8 @@ make a contribution.
 - [Parin](https://github.com/Kapendev/parin) - A delightfully simple 2D game engine for the D programming language. Parin is designed to make game development fast and fun — it's easy to set up, hackable, and comes with the essentials built in.
 - [Parlour](https://github.com/braedonsaunders/parlour) - Deterministic TypeScript card-game engine with a cozy browser table (Blitz, Wild, P2P rooms, no backend).
 - [Pyxel](https://github.com/kitao/pyxel) - An open-source retro game engine for Python with built-in editors for pixel art, tilemaps, sound effects, and music. Games can run on desktop and in a browser.
-# Q (0):
+# Q (1):
+- [Quantum](https://github.com/alguemqualquer123/quantum) - MIT-licensed C++17 game engine and visual editor for 2D/3D games: ECS runtime, forward PBR rendering with an HDR chain, Lua and C++ scripting, Box2D and Jolt physics, CDLOD terrain and a shallow-water simulation, and native export to Windows, Linux, macOS, Android, iOS and HTML5.
 # R (4):
 - [RavEngine](https://github.com/RavEngine/RavEngine) - A fast C++20 3D game engine for modern devices, with wide platform support.
 - [Raylib](https://www.raylib.com/) - raylib is a simple and easy-to-use library to enjoy videogames programming.
