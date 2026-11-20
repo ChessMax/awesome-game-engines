@@ -56,6 +56,7 @@ make a contribution.
 - [GDevelop](https://gdevelop.io/) - Open-source, cross-platform game engine designed to be used by everyone. GDevelop is a full-featured, no-code, open-source game development software. You can build games for mobile, desktop and the web. GDevelop is fast and easy to use: the game logic is built up using an intuitive and powerful event-based system.
 - [Godot](https://github.com/godotengine/godot) - Godot Engine is a feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface. It provides a comprehensive set of common tools, so that users can focus on making games without having to reinvent the wheel. Games can be exported with one click to a number of platforms, including the major desktop platforms (Linux, macOS, Windows), mobile platforms (Android, iOS), as well as Web-based platforms and consoles.
 # H (7):
+- [HardDaysEngine](https://github.com/krj29b/HardDaysEngine) - Clean-room reimplementation of *Moonstone: A Hard Days Knight* (Amiga, 1991). Runs from original ADF disks.
 - [HaxeFlixel](https://haxeflixel.com/) - Free, cross-platform 2D game engine powered by Haxe and OpenFL.
 - [HaxePunk](https://github.com/HaxePunk/HaxePunk) - Cross-platform desktop, mobile, and WebGL game engine, based on FlashPunk.
 - [Hazel Engine](https://github.com/TheCherno/Hazel) - Hazel is primarily an early-stage interactive application and rendering engine for Windows. Currently not much is implemented, however (almost) everything inside this repository is being created within YouTube videos.
